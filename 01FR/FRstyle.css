@@ -1,0 +1,51 @@
+h2 {
+  font-family: 'M PLUS 1p', 'Song Myung', serif;
+  color: white;
+  background-color: #33539e;
+  font-size: 18pt;
+}
+.tableC {
+  background-color: #e86b79;
+}
+.tableW {
+  background-color: #f5f5f5;
+}
+.strongfr {
+  color: #33539e;
+}
+.sstrong {
+  color: #cc234f;
+}
+.tableT {
+  color:white;
+  text-align: center;
+}
+h3 {
+  font-family: 'M PLUS 1p', 'Song Myung', serif;
+  font-size: 18pt;
+}
+h4 {
+  font-family: 'M PLUS 1p', 'Song Myung', serif;
+}
+.tilelinks {
+  color:#33539e;
+}
+.titles {
+  color: white;
+}
+small {
+  color:#504e48;
+  font-weight: bold;
+}
+.tables {
+  border-width: 0;
+}
+.Alpha {
+  font-size: 32pt;
+  color: white;
+  text-align: center;
+}
+.tableAlpha {
+  background-color: #7facd6;
+  width: 70px;
+}
